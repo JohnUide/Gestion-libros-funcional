@@ -13,6 +13,7 @@ El sistema permitirá administrar en memoria un catálogo de libros electrónico
 1. **Catálogo:** Registro de libros con propiedades `id`, `titulo`, `autor`, `genero` y `leido`.
 2. **Búsqueda:** Filtrado dinámico por autor o género usando el método nativo `.filter()`.
 3. **Progreso:** Actualización del estado de lectura devolviendo nuevas colecciones usando el método nativo `.map()`.
+
 # Sistema de Gestión de Libros Electrónicos (E-books) - Etapa 2 (POO)
 
 * **Entorno:** Visual Studio Code
